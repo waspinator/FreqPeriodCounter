@@ -1,4 +1,4 @@
-#include "FreqPeriodCounter.h"
+#include "FreqPeriodCounter/FreqPeriodCounter.h"
 
 const int simulated_fan_output_pin = A0;
 const int counter_interrupt_pin = D4; 
